@@ -1,10 +1,7 @@
-# Hi there, I am Deepak.
+# Hi there, I am Deepak
 
-## I'm a B.tech(IT) final year student at HNBGU and a ninja developer !
-
-- 🌱 I’m currently learning about  Full stack web development.
-- 👯 I’m looking to collaborate with a org. to deploy my skill set.
-- 🥅 2022 Goals: Contribute more to Open Source projects and work hard.
+- 🌱 I’m currently learning about  Data Structures and Algorithms.
+- 🥅 2023 Goals: Contribute more to Open Source projects and work hard.
 - ⚡ Fun fact: I love to play Cricket && love long run.
 
 <br/>
