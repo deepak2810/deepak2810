@@ -1,8 +1,8 @@
 # Hi there, I am Deepak
 
-- 🌱 I’m currently learning about  Data Structures and Algorithms.
-- 🥅 2023 Goals: Contribute more to Open Source projects and work hard.
-- ⚡ Fun fact: I love to play Cricket && love long run.
+- 🌱 I’m currently learning DevOps, cloud and python
+- 🥅 2024 Goals: Continous learning
+- ⚡ Fun fact: I love to play Cricket && love the long run.
 
 <br/>
 
