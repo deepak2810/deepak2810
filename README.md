@@ -1,6 +1,6 @@
 # Hi there, I am Deepak
 
-- 🌱 I’m currently learning DevOps, cloud and python
+- 🌱 I’m currently learning Front End development
 - 🥅 2024 Goals: Continous learning
 - ⚡ Fun fact: I love to play Cricket && love the long run.
 
